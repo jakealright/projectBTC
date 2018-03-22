@@ -1,0 +1,34 @@
+,market,pair,trade_price,trade_volume
+0,Lbank,VEN/BTC,$3.77,"$54,670,300"
+1,Binance,VEN/BTC,$3.76,"$11,582,800"
+2,Huobi,VEN/BTC,$3.77,"$3,474,910"
+3,Huobi,VEN/ETH,$3.78,"$2,953,950"
+4,Binance,VEN/ETH,$3.76,"$2,931,710"
+5,Huobi,VEN/USDT,$3.78,"$2,199,070"
+6,Binance,VEN/BNB,$3.80,"$547,239"
+7,Gate.io,VEN/USDT,$3.75,"$340,729"
+8,Gate.io,VEN/ETH,$3.78,"$81,203"
+9,HitBTC,VEN/BTC,$3.75,"$50,657"
+10,Liqui,VEN/USDT,$3.68,"$48,335"
+11,Liqui,VEN/BTC,$3.73,"$47,711"
+12,Liqui,VEN/ETH,$3.76,"$42,611"
+13,LATOKEN,VEN/LA,$3.74,"$41,350"
+14,HitBTC,VEN/USDT,$3.81,"$29,471"
+15,HitBTC,VEN/ETH, $3.74,"$24,844"
+16,Vebitcoin,VEN/TRY,$4.11,"$20,752"
+17,ForkDelta,VEN/ETH,$3.72,"$7,845"
+18,IDEX,VEN/ETH,$4.00,"$1,809"
+19,COSS,VEN/BTC,$3.67,"$1,636"
+20,COSS,VEN/ETH,$3.72,$967
+21,BigONE,VEN/ETH,$3.71,$767
+22,Livecoin,VEN/BTC,$3.73,$518
+23,BigONE,VEN/BTC,$3.80,$233
+24,Qryptos,VET/ETH,$3.69,$103
+25,CoinFalcon,VEN/BTC,$3.96,$18
+26,Livecoin,VEN/USD,$4.45,$11
+27,Coinnest,VET/KRW,$2.91,$10
+28,Qryptos,VET/BTC,$3.99,$0
+29,CoinFalcon,VEN/ETH,$4.09,$0
+30,OTCBTC,VEN/ETH,$5.72,$0
+31,Kucoin,VEN/BTC,$3.78,"$228,342"
+32,Kucoin,VEN/ETH, $3.74,"$50,117"

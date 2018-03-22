@@ -1,0 +1,73 @@
+,market,pair,trade_price,trade_volume
+0,Upbit,XLM/KRW,$0.265708,"$28,033,600"
+1,Binance,XLM/BTC,$0.254756,"$20,847,000"
+2,Bittrex,XLM/BTC,$0.254304,"$8,533,720"
+3,Upbit,XLM/BTC,$0.254666,"$5,813,910"
+4,Poloniex,STR/BTC,$0.254937,"$5,217,320"
+5,Kraken,XLM/EUR,$0.253690,"$3,798,510"
+6,Kraken,XLM/BTC,$0.253581," $2,753,990"
+7,Binance,XLM/ETH,$0.255161,"$2,692,350"
+8,Bitcoin Indonesia,STR/IDR,$0.262569,"$2,536,740"
+9,Poloniex,STR/USDT,$0.254319,"$2,399,170"
+10,Kraken,XLM/USD,$0.252000,"$2,212,410"
+11,OKEx,XLM/USDT,$0.254118,"$782,430"
+12,CEX.IO,XLM/USD,$0.258100,"$542,105"
+13,Vebitcoin,XLM/TRY,$0.263456,"$530,368"
+14,Koineks,XLM/TRY,$0.260898,"$436,715"
+15,Bittrex,XLM/ETH,$0.257387,"$413,164"
+16,BCEX,XLM/BTC,$0.245264,"$294,031"
+17,Binance,XLM/BNB,$0.255969,"$255,592"
+18,Bitcoin Indonesia,STR/BTC,$0.256745," $238,877"
+19,OKEx,XLM/BTC,$0.251321,"$224,853"
+20,Upbit,XLM/ETH,$0.254600,"$143,150"
+21,RippleFox,XRP/XLM,$0.258082,"$143,004"
+22,Gate.io,XLM/USDT,$0.255619,"$125,493"
+23,Bitbns,XLM/INR,$0.267384,"$107,562"
+24,Exrates,XLM/USD,$0.256430,"$107,162"
+25,Koinex,XLM/INR, $0.268920,"$92,109"
+26,CEX.IO,XLM/BTC,$0.253129,"$90,508"
+27,Exrates,XLM/BTC,$0.242118,"$88,035"
+28,Stellar Decentralized Exchange,XLM/CNY,$0.260979,"$47,205"
+29,RippleFox,XLM/CNY,$0.266052,"$46,842"
+30,OKEx,XLM/ETH,$0.257335,"$43,644"
+31,Stellar Decentralized Exchange,MOBI/XLM,$0.253789,"$42,011"
+32,Stellarport,MOBI/XLM,$0.253789,"$42,011"
+33,Gate.io,XLM/BTC,$0.256383,"$30,053"
+34,CEX.IO,XLM/EUR,$0.253889,"$23,683"
+35,Stellar Decentralized Exchange,RMT/XLM,$0.256583,"$15,773"
+36,Stellarport,RMT/XLM,$0.256583,"$15,773"
+37,AEX,XLM/BTC, $0.248609,"$14,539"
+38,Gate.io,XLM/ETH,$0.255161,"$12,259"
+39,HitBTC,XLM/BTC,$0.277267,"$11,240"
+40,Stronghold,XLM/BTC,$0.278442,"$10,875"
+41,Stellar Decentralized Exchange,SLT/XLM,$0.256582,"$10,774"
+42,Stellarport,SLT/XLM,$0.256582,"$10,774 "
+43,HitBTC,XLM/USDT,$0.282269,"$9,356"
+44,CryptoMarket,XLM/CLP,$0.259848,"$7,487"
+45,Stellarport,ETH/XLM,$0.261267,"$3,210"
+46,Stellar Decentralized Exchange,KIN/XLM,$0.246392,"$2,711"
+47,Stellarport,KIN/XLM,$0.246392,"$2,711"
+48,Bitstamp (Ripple Gateway),XLM/BTC,$0.319812,"$2,547"
+49,Stronghold,XLM/ETH,$0.237082,"$2,473"
+50,Cryptomate,XLM/GBP,$0.281019,"$2,121"
+51,Stellar Decentralized Exchange,XRP/XLM,$0.260647,"$2,072"
+52,Stellarport,XRP/XLM,$0.260647,"$2,072"
+53,CryptoMarket,XLM/ARS,$0.271411,"$1,947"
+54,HitBTC,XLM/ETH,$0.308539," $1,826"
+55,Qryptos,XLM/ETH,$0.249194,$949
+56,Stellarport,LTC/XLM,$0.261196,$928
+57,Stellarport,BTC/XLM,$0.285171,$878
+58,Stellar Decentralized Exchange,ETH/XLM,$0.259199,$863
+59,Stellar Decentralized Exchange,LTC/XLM,$0.261189,$738
+60,CryptoMarket,XLM/EUR,$0.259196,$664
+61,AEX,XLM/BITCNY,$0.219466,$663
+62,CoinEgg,XLM/BTC,$0.235500,$438
+63,Stellar Decentralized Exchange,BTC/XLM,$0.256202,$361
+64,Stellar Decentralized Exchange,XLM/EUR,$0.260238,$18
+65,Qryptos,XLM/BTC,$0.292635,$0
+66,Stellar Decentralized Exchange,XLM/HKD,$0.325044,$0
+67,Stellar Decentralized Exchange,XEL/XLM,$0.013956,$0
+68,Stellar Decentralized Exchange,OMG/XLM,$0.264071,$0
+69,GOPAX,XLM/KRW,$0.264769,"$15,399,100"
+70,GOPAX,XLM/BTC,$0.254395,"$13,275"
+71,GOPAX,XLM/ETH,$0.280145,"$10,051"

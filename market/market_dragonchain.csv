@@ -1,0 +1,22 @@
+,market,pair,trade_price,trade_volume
+0,Kucoin,DRGN/BTC,$0.956918,"$822,822"
+1,Kucoin,DRGN/ETH,$0.955424,"$318,264"
+2,Kucoin,DRGN/USDT,$0.970441,"$102,140"
+3,Fatbtc,DRGN/ETH,$0.960000,"$95,402"
+4,Fatbtc,DRGN/BTC,$0.967314,"$85,845"
+5,Bancor Network,DRGN/BNT,$0.925898,"$37,967"
+6,ForkDelta,DRGN/ETH,$0.913620,"$18,091"
+7,Gate.io,DRGN/USDT,$0.946240,"$13,883"
+8,Gate.io,DRGN/ETH,$0.941121,"$13,788"
+9,CoinExchange,DRGN/BTC,$0.931243,"$9,568"
+10,Kucoin,DRGN/NEO,$0.940087,"$6,000"
+11,Token Store,DRGN/ETH,$1.17,"$5,447"
+12,IDEX,DRGN/ETH,$0.872754,"$4,946"
+13,CoinExchange,DRGN/ETH,$0.886770,"$1,922"
+14,Tidex,DRGN/BTC,$0.840840,$487
+15,Tidex,DRGN/ETH,$1.20,$464
+16,Tidex,DRGN/USDT,$0.940437,$0
+17,Fatbtc,DRGN/CNY,$1.52,$0
+18,Cobinhood,DRGN/BTC,$0.983135,"$3,958"
+19,Cobinhood,DRGN/ETH,$0.942208,"$2,718"
+20,Cobinhood,DRGN/USDT,$0.600379,$48

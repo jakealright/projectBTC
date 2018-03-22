@@ -1,0 +1,11 @@
+,market,pair,trade_price,trade_volume
+0,HitBTC,MAID/BTC,$0.309360,"$1,140,440"
+1,Poloniex,MAID/BTC,$0.317858,"$472,276"
+2,HitBTC,MAID/ETH,$0.307795,"$191,803"
+3,HitBTC,MAID/USDT,$0.317219,"$46,591"
+4,Cryptopia,MAID/BTC,$0.315145,"$8,114"
+5,Poloniex,MAID/XMR,$0.317855,"$5,779"
+6,OpenLedger DEX,MAID/BTC,$0.332496,$76
+7,OpenLedger DEX,MAID/BITUSD,$0.385769,$6
+8,OpenLedger DEX,MAID/BTS,$0.366922 ,$6
+9,Omni DEX,MAID/USDT,$5.01,$0

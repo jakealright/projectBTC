@@ -1,0 +1,22 @@
+,market,pair,trade_price,trade_volume
+0,Bitbank,MONA/JPY,$4.03,"$533,908"
+1,Zaif,MONA/JPY,$4.04,"$472,340"
+2,Bittrex,MONA/BTC,$3.99,"$172,482"
+3,Livecoin,MONA/BTC,$3.91,"$46,380"
+4,Bitbank,MONA/BTC,$4.11,"$36,736"
+5,Upbit,MONA/BTC,$3.91,"$23,607"
+6,Zaif,MONA/BTC,$3.98,"$23,031"
+7,Vebitcoin,MONA/TRY, $4.18,"$10,309"
+8,CryptoBridge,MONA/BTC,$3.98,"$4,245"
+9,CryptoBridge,XP/MONA,$3.81,"$1,818"
+10,CryptoBridge,MONA/ZNY,$4.18,"$1,219"
+11,CryptoBridge,LTC/MONA,$3.77,$417
+12,CryptoBridge,BCO/MONA,$2.49,$250
+13,CryptoBridge,HTML/MONA,$4.33,$248
+14,CryptoBridge,XSH/MONA,$3.43,$217
+15,EXX,MONA/HSR,$4.10,$140
+16,Bleutrade,MONA/BTC,$3.81,$81
+17,EXX,MONA/QTUM,$4.23,$54
+18,Bleutrade,MONA/DOGE,$3.72,$27
+19,Fisco,MONA/JPY,$4.05,"$472,903"
+20,Fisco,MONA/BTC,$3.98,"$23,031"

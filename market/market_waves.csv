@@ -1,0 +1,97 @@
+,market,pair,trade_price,trade_volume
+0,Tidex,WAVES/BTC,$5.09,"$11,220,200"
+1,Binance,WAVES/BTC,$5.12,"$5,425,880"
+2,YoBit,WAVES/BTC,$5.11,"$1,754,700"
+3,Exmo,WAVES/BTC,$5.02,"$580,479"
+4,Bittrex,WAVES/BTC,$5.09,"$527,768"
+5,Binance,WAVES/ETH,$5.10,"$262,480"
+6,Upbit,WAVES/KRW,$5.28,"$217,430"
+7,Waves Decentralized Exchange,WAVES/BTC,$5.08,"$187,932"
+8,Upbit,WAVES/BTC,$5.07,"$172,885"
+9,Livecoin,WAVES/BTC,$5.13,"$157,611"
+10,Bitcoin Indonesia,WAVES/IDR,$5.22,"$121,794"
+11,Liqui,WAVES/BTC,$5.08,"$94,768"
+12,Liqui,WAVES/ETH,$5.08,"$88,011"
+13,Liqui,WAVES/USDT,$4.99,"$85,452"
+14,Tidex,WAVES/ETH,$5.09,"$75,432"
+15,Tidex,BCH/WAVES,$5.12,"$62,401"
+16,Tidex,WAVES/USDT,$5.05,"$60,935"
+17,Waves Decentralized Exchange,WAVES/USD,$5.25,"$55,689"
+18,Waves Decentralized Exchange,ETH/WAVES,$5.06 ,"$54,772"
+19,Exmo,WAVES/RUB,$4.83,"$53,147"
+20,Tidex,LTC/WAVES,$5.11,"$32,654"
+21,Binance,WAVES/BNB,$5.06,"$30,489"
+22,Tidex,DASH/WAVES,$5.06,"$29,152"
+23,Waves Decentralized Exchange,WAVES/EUR,$5.18,"$19,487"
+24,Waves Decentralized Exchange,ZEC/WAVES,$5.12,"$19,384"
+25,Gate.io,WAVES/USDT,$5.33,"$16,543"
+26,Tidex,TDX/WAVES,$5.11,"$14,475"
+27,Tidex,PBT/WAVES,$5.06,"$11,851"
+28,Tidex,WCT/WAVES,$5.07,"$11,361"
+29,YoBit,WAVES/USD,$5.25,"$10,701"
+30,Waves Decentralized Exchange,WGR/WAVES,$5.20 ,"$9,148"
+31,HitBTC,WAVES/BTC,$5.12,"$8,834"
+32,Tidex,KOLION/WAVES,$5.13,"$8,746"
+33,Bittrex,WAVES/ETH,$5.16,"$8,529"
+34,Waves Decentralized Exchange,LTC/WAVES,$5.10,"$7,181"
+35,Waves Decentralized Exchange,BCC/WAVES,$5.11,"$7,033"
+36,Tidex,ZRC/WAVES,$5.09,"$6,960"
+37,Waves Decentralized Exchange,WCT/WAVES,$5.04,"$6,362"
+38,Exrates,WAVES/USD,$5.04,"$6,258"
+39,Tidex,MRT/WAVES,$5.06,"$5,873"
+40,Tidex,EDG/WAVES,$5.15,"$5,828"
+41,Exrates,WAVES/BTC,$5.13,"$5,561"
+42,Waves Decentralized Exchange,OCL/WAVES,$4.88 ,"$5,557"
+43,Tidex,TRCT/WAVES,$5.03,"$5,300"
+44,Upbit,WAVES/ETH,$5.16,"$4,220"
+45,Waves Decentralized Exchange,B@/WAVES,$9.92,"$3,062"
+46,Waves Decentralized Exchange,EFYT/WAVES,$5.11,"$2,565"
+47,Waves Decentralized Exchange,STA/WAVES,$5.01,"$2,342 "
+48,Waves Decentralized Exchange,MRT/WAVES,$5.25,"$2,226"
+49,Gate.io,WAVES/BTC,$5.14,"$2,209"
+50,Kuna,WAVES/UAH,$5.25,"$2,136"
+51,LiteBit.eu,WAVES/EUR,$5.12,"$1,912"
+52,Waves Decentralized Exchange,EOT/WAVES,$5.01,"$1,567"
+53,COSS,WAVES/ETH,$5.20,$676
+54,COSS,WAVES/BTC, $5.24,$519
+55,Waves Decentralized Exchange,INCNT/WAVES,$5.62,$298
+56,Waves Decentralized Exchange,PBT/WAVES,$5.48,$287
+57,Waves Decentralized Exchange,MER/WAVES,$5.49,$256
+58,Waves Decentralized Exchange,AHT/WAVES,$5.21,$109
+59,Waves Decentralized Exchange,TKS/WAVES,$7.48,$84
+60,Waves Decentralized Exchange,MBI/WAVES,$5.11,$80
+61,Waves Decentralized Exchange,ETT/WAVES,$7.69,$73
+62,Stocks.Exchange,WAVES/BTC,$4.94,$68
+63,Waves Decentralized Exchange,WGO/WAVES,$5.06,$67
+64,Waves Decentralized Exchange,COXST/WAVES,$5.13,$65
+65,Waves Decentralized Exchange,DAR/WAVES,$4.74,$52
+66,Cryptohub,WAVES/BTC,$4.80,$10 
+67,Waves Decentralized Exchange,PING/WAVES,$3.79,$9
+68,Waves Decentralized Exchange,RBX/WAVES,$5.11,$8
+69,OpenLedger DEX,WAVES/BITUSD,$6.11,$5
+70,Waves Decentralized Exchange,ZRC/WAVES,$4.57,$1
+71,OpenLedger DEX,WAVES/BTC,$5.36,$0
+72,OpenLedger DEX,WAVES/BTS,$5.28,$0
+73,OpenLedger DEX,WAVES/BITCNY,$5.71,$0
+74,Tidex,DOGE/WAVES,$5.31,$0
+75,Tidex,BTS/WAVES,$5.49,$0
+76,Tidex,ETH/WAVES,$7.04,$0
+77,Cryptomate,WAVES/GBP,$5.54,$0
+78,Waves Decentralized Exchange,WAVES/ETH,$6.58,$0
+79,Coinrail,WAVES/KRW,$4.98,$0
+80,Coinbe,WAVES/BTC,$0.598921,$0
+81,Tidex,INCNT/WAVES,$14.05,$0
+82,Tidex,MER/WAVES,$6.25,$0
+83,Tidex,B@/WAVES,$1.61,$0
+84,Tidex,RBX/WAVES,$1.28,$0
+85,Tidex,WGO/WAVES,$2.06,$0
+86,Tidex,MGO/WAVES,$4.28,$0
+87,Tidex,SNM/WAVES,$5.17,$0
+88,Tidex,BNT/WAVES,$6.37,$0 
+89,Tidex,SNT/WAVES,$8.45,$0
+90,Tidex,WGR/WAVES,$7.94,$0
+91,Tidex,STA/WAVES,$3.05,$0
+92,Waves Decentralized Exchange,SHDW/WAVES,$5.08,$0
+93,Tidex,AHT/WAVES,$2.00,$0
+94,Tidex,LIFE/WAVES,$4.29,$0
+95,Tidex,RYZ/WAVES,$4.77,$0

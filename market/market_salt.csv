@@ -1,0 +1,21 @@
+,market,pair,trade_price,trade_volume
+0,Binance,SALT/BTC,$2.86,"$4,920,590"
+1,Huobi,SALT/BTC,$2.88,"$1,422,730"
+2,Huobi,SALT/ETH,$2.88,"$1,269,370"
+3,Bittrex,SALT/BTC,$2.87,"$869,266"
+4,Binance,SALT/ETH,$2.86,"$439,064"
+5,Upbit,SALT/BTC,$2.87,"$286,380"
+6,Liqui,SALT/BTC,$2.89,"$101,095"
+7,Liqui,SALT/ETH,$2.89,"$97,045"
+8,Liqui,SALT/USDT,$2.84,"$91,844"
+9,Bittrex,SALT/ETH,$2.88,"$61,138"
+10,LATOKEN,SALT/LA,$2.85,"$36,262"
+11,Upbit,SALT/ETH,$2.94,"$14,996"
+12,OKEx,SALT/BTC,$2.85,"$12,394"
+13,Gate.io,SALT/USDT,$2.85,"$10,947"
+14,Token Store,SALT/ETH,$2.07,"$6,175"
+15,OKEx,SALT/ETH,$2.85,"$3,739"
+16,OKEx,SALT/USDT,$2.82,"$1,161"
+17,Gate.io,SALT/ETH,$2.80,$377
+18,IDEX,SALT/ETH,$3.63,$0
+19,Radar Relay,SALT/WETH,$2.48,$0
